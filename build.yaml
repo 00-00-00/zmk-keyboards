@@ -57,6 +57,8 @@ include:
     shield: acorn_peripheral_left
   - board: nice_nano
     shield: acorn_peripheral_right
+  - board: nice_nano
+    shield: settings_reset
     # Coral v1 (Wired w/ RP-Zero)
   - board: rp2040_zero
     shield: coral_left
